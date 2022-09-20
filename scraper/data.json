@@ -592,5 +592,1430 @@
             "national crayon day",
             "national prom day"
         ]
+    },
+    "April": {
+        "first saturday in april": [
+            "national handmade day",
+            "national love our children day"
+        ],
+        "april 3": [
+            "national film score day",
+            "national find a rainbow day"
+        ],
+        "april 4": [
+            "national school librarian day",
+            "national vitamin c day"
+        ],
+        "april 5": [
+            "national deep dish pizza day",
+            "national flash drive day",
+            "national nebraska day"
+        ],
+        "1st thursday of april": [
+            "national burrito day"
+        ],
+        "april 6th": [
+            "national tartan day"
+        ],
+        "april 7": [
+            "national girl me too day"
+        ],
+        "april 9": [
+            "national former prisoner of war recognition day"
+        ],
+        "april 10": [
+            "national farm animals day"
+        ],
+        "april 11": [
+            "national pet day",
+            "national submarine day"
+        ],
+        "april 12": [
+            "national colorado day",
+            "national for twelves day",
+            "national only child day"
+        ],
+        "april 13": [
+            "national borinqueneers day",
+            "national make lunch count day",
+            "national peach cobbler day",
+            "national thomas jefferson day"
+        ],
+        "april 14": [
+            "national dolphin day",
+            "national pecan day"
+        ],
+        "third saturday in april": [
+            "national auctioneers day"
+        ],
+        "april 15": [
+            "national laundry day",
+            "national banana day"
+        ],
+        "changes annually": [
+            "national record store day",
+            "national donate life blue green day"
+        ],
+        "april 16": [
+            "national bean counter day",
+            "national healthcare decisions day",
+            "national orchid day",
+            "national wear your pajamas to work day"
+        ],
+        "april 17": [
+            "national crawfish day"
+        ],
+        "april 19": [
+            "national north dakota day"
+        ],
+        "april20": [
+            "national cheddar fries day"
+        ],
+        "april 21": [
+            "national chocolate covered cashews day",
+            "national kindergarten day",
+            "national yellow bat day"
+        ],
+        "third friday in april": [
+            "national clean out your medicine cabinet day"
+        ],
+        "april 23": [
+            "national lost dog awareness day"
+        ],
+        "april 25": [
+            "national dna day",
+            "national hug a plumber day"
+        ],
+        "tuesday of national library week": [
+            "national library workers day"
+        ],
+        "april 26": [
+            "national dissertation day",
+            "national help a horse day",
+            "national south dakota day"
+        ],
+        "wednesday of national library week": [
+            "national library outreach day"
+        ],
+        "april 27": [
+            "national gummi bear day",
+            "national babe ruth day",
+            "national devil dog day"
+        ],
+        "april 28th": [
+            "national bravehearts day"
+        ],
+        "last friday in april": [
+            "national hairball awareness day"
+        ],
+        "april 28": [
+            "national superhero day"
+        ],
+        "last saturday in april": [
+            "national first ladies day",
+            "national rebuilding day",
+            "national sense of smell day"
+        ],
+        "last saturday of april": [
+            "national kiss of hope day"
+        ],
+        "last saturday in april 2": [
+            "national pool opening day"
+        ],
+        "april 30": [
+            "national adopt a shelter pet day",
+            "national bubble tea day",
+            "national military brats day",
+            "national prepareathon day",
+            "national sarcoidosis day"
+        ],
+        "last sunday in april": [
+            "national pet parents day"
+        ]
+    },
+    "May": {
+        "first tuesday in may": [
+            "national foster care day"
+        ],
+        "changes annually": [
+            "national bike to school day"
+        ],
+        "first wednesday in may": [
+            "national interpreter appreciation day",
+            "national skilled trades day"
+        ],
+        "may 3": [
+            "national montana day",
+            "national raspberry popover day",
+            "national textiles day"
+        ],
+        "may 4": [
+            "national weather observers day"
+        ],
+        "may 5": [
+            "national astronaut day",
+            "national silence the shame day"
+        ],
+        "first friday in may": [
+            "national space day"
+        ],
+        "first saturday in may": [
+            "national bombshells day",
+            "national start seeing monarchs day"
+        ],
+        "first saturday in may 2": [
+            "national fitness day"
+        ],
+        "first saturday of every month": [
+            "national play outside day"
+        ],
+        "may 7": [
+            "national barrier awareness day",
+            "national packaging design day"
+        ],
+        "first sunday in may": [
+            "national lemonade day"
+        ],
+        "may 8": [
+            "national have a coke day",
+            "national student nurse day"
+        ],
+        "second monday in may": [
+            "national womens checkup day"
+        ],
+        "may 9": [
+            "national alphabet magnet day",
+            "national home front heroes day",
+            "national sleepover day"
+        ],
+        "tuesday of the first full week in may": [
+            "national teacher appreciation day"
+        ],
+        "may 10": [
+            "national clean up your room day",
+            "national lipid day",
+            "national washington day"
+        ],
+        "second wednesday in may": [
+            "national third shift workers day"
+        ],
+        "may 11": [
+            "national eat what you want day"
+        ],
+        "may 12": [
+            "national fibromyalgia awareness day"
+        ],
+        "second saturday in may": [
+            "national archery day",
+            "national dog moms day",
+            "national miniature golf day"
+        ],
+        "may 13": [
+            "national crouton day"
+        ],
+        "saturday closest to may 10": [
+            "national train day"
+        ],
+        "may 14": [
+            "national decency day"
+        ],
+        "may 15": [
+            "national nylon stocking day"
+        ],
+        "may 16": [
+            "national barbecue day",
+            "national do something good for your neighbor day",
+            "national mimosa day",
+            "national piercing day"
+        ],
+        "may 17": [
+            "national graduation tassel day",
+            "national idaho day",
+            "national walnut day"
+        ],
+        "third wednesday in may": [
+            "national juice slush day"
+        ],
+        "third friday in may": [
+            "national bike to work day",
+            "national pizza party day"
+        ],
+        "third saturday in may": [
+            "national armed forces day"
+        ],
+        "may 20": [
+            "national be a millionaire day",
+            "national pick strawberries day",
+            "national rescue dog day",
+            "national streaming day"
+        ],
+        "third sunday in may": [
+            "national take your parents to the playground day"
+        ],
+        "may 21": [
+            "national memo day"
+        ],
+        "may 22": [
+            "national buy a musical instrument day",
+            "national craft distillery day",
+            "national solitaire day",
+            "national vanilla pudding day"
+        ],
+        "may 24": [
+            "national yucatan shrimp day"
+        ],
+        "may 26": [
+            "national paper airplane day"
+        ],
+        "may 28": [
+            "national beef burger day"
+        ],
+        "may 29": [
+            "national 529 day"
+        ],
+        "may 30": [
+            "national creativity day"
+        ],
+        "may 31": [
+            "national autonomous vehicle day",
+            "national macaroon day",
+            "national save your hearing day",
+            "national smile day",
+            "national speak in complete sentences day",
+            "national utah day"
+        ]
+    },
+    "June": {
+        "june 1": [
+            "national hazelnut cake day",
+            "national nail polish day",
+            "national penpal day",
+            "national say something nice day"
+        ],
+        "june 2 unless weekend": [
+            "national leave the office early day"
+        ],
+        "june 2": [
+            "national rotisserie chicken day"
+        ],
+        "first saturday in june": [
+            "national black bear day",
+            "national prairie day"
+        ],
+        "june 3rd": [
+            "national egg day"
+        ],
+        "june 4": [
+            "national clean beauty day",
+            "national cognac day",
+            "national hug your cat day",
+            "national safe day"
+        ],
+        "june 5": [
+            "national moonshine day",
+            "national veggie burger day"
+        ],
+        "june 6": [
+            "national higher education day"
+        ],
+        "first wednesday in june": [
+            "national running day"
+        ],
+        "june 7": [
+            "national oklahoma day"
+        ],
+        "june 8": [
+            "national best friends day"
+        ],
+        "june 9": [
+            "national earl day"
+        ],
+        "june 10": [
+            "national egg roll day"
+        ],
+        "second saturday in june": [
+            "national rose day",
+            "national outlet shopping day"
+        ],
+        "june 11": [
+            "national making life beautiful day"
+        ],
+        "second tuesday in june": [
+            "national forklift safety day"
+        ],
+        "june 13": [
+            "national random acts of light day"
+        ],
+        "june 14": [
+            "national bourbon day",
+            "national new mexico day"
+        ],
+        "june 15": [
+            "national megalodon day"
+        ],
+        "third friday in june": [
+            "national flip flop day"
+        ],
+        "june 17": [
+            "national apple strudel day",
+            "national cherry tart day"
+        ],
+        "june 17 2": [
+            "national mascot day"
+        ],
+        "june 18": [
+            "national splurge day",
+            "national wanna get away day"
+        ],
+        "third sunday in june": [
+            "national turkey lovers day"
+        ],
+        "june 19": [
+            "national freebsd day"
+        ],
+        "june 20": [
+            "national hike with a geek day",
+            "national ice cream soda day"
+        ],
+        "june 20 2": [
+            "national kouign amann day"
+        ],
+        "june 21": [
+            "national arizona day",
+            "national daylight appreciation day",
+            "national selfie day",
+            "national smoothie day"
+        ],
+        "first day of summer": [
+            "national seashell day"
+        ],
+        "june 22": [
+            "national hvac tech day",
+            "national kissing day",
+            "national onion rings day"
+        ],
+        "june 23": [
+            "national detroit style pizza day",
+            "national hydration day"
+        ],
+        "june 24": [
+            "national take back the lunch break day"
+        ],
+        "june 25": [
+            "national strawberry parfait day"
+        ],
+        "june 26": [
+            "national barcode day",
+            "national coconut day"
+        ],
+        "june 27": [
+            "national ice cream cake day",
+            "national onion day"
+        ],
+        "june 28": [
+            "national alaska day",
+            "national logistics day"
+        ],
+        "last wednesday in june": [
+            "national parchment day"
+        ],
+        "last thursday in june": [
+            "national handshake day"
+        ]
+    },
+    "July": {
+        "july 1": [
+            "national gingersnap day"
+        ],
+        "july 2": [
+            "national wildland firefighter day"
+        ],
+        "july 3": [
+            "national chocolate wafer day",
+            "national fried clam day"
+        ],
+        "july 4": [
+            "national barbecued spareribs day",
+            "national caesar salad day"
+        ],
+        "july 5": [
+            "national bikini day",
+            "national graham cracker day",
+            "national hawaii day"
+        ],
+        "july 6": [
+            "national hand roll day"
+        ],
+        "july 7": [
+            "national dive bar day",
+            "national macaroni day"
+        ],
+        "july 8": [
+            "national chocolate with almonds day",
+            "national freezer pop day"
+        ],
+        "july 9": [
+            "national dimples day"
+        ],
+        "july 10": [
+            "national kitten day"
+        ],
+        "july 11": [
+            "national 7 eleven day",
+            "national mojito day"
+        ],
+        "july 13": [
+            "national barbershop music appreciation day",
+            "national beans n franks day"
+        ],
+        "july 13 2": [
+            "national delaware day"
+        ],
+        "july 14": [
+            "national mac and cheese day"
+        ],
+        "july 15": [
+            "national give something away day",
+            "national pet fire safety day",
+            "national tapioca pudding day"
+        ],
+        "july 16": [
+            "national corn fritters day",
+            "national personal chef day"
+        ],
+        "july 17": [
+            "national lottery day",
+            "national tattoo day"
+        ],
+        "july 18": [
+            "national sour candy day"
+        ],
+        "third wednesday in july": [
+            "national hot dog day"
+        ],
+        "july 19": [
+            "national words with friends day"
+        ],
+        "july 20": [
+            "national fortune cookie day",
+            "national pennsylvania day"
+        ],
+        "july 21": [
+            "national be someone day"
+        ],
+        "july 22": [
+            "national fragile x awareness day",
+            "national mango day",
+            "national penuche fudge day"
+        ],
+        "july 25": [
+            "national hire a veteran day"
+        ],
+        "july 26": [
+            "national coffee milkshake day"
+        ],
+        "last thursday in july": [
+            "national chili dog day"
+        ],
+        "july 27": [
+            "national creme brulee day",
+            "national korean war veterans armistice day",
+            "national love is kind day",
+            "national new jersey day",
+            "national scotch day"
+        ],
+        "last thursday in july 2": [
+            "national intern day"
+        ],
+        "fourth thursday in july": [
+            "national refreshment day"
+        ],
+        "last friday in july": [
+            "national get gnarly day"
+        ],
+        "july 28": [
+            "national waterpark day"
+        ],
+        "july 29": [
+            "national chicken wing day"
+        ],
+        "july 30": [
+            "national whistleblower day"
+        ],
+        "july 31": [
+            "national avocado day"
+        ],
+        "july 31 and december 2": [
+            "national mutt day"
+        ]
+    },
+    "August": {
+        "august 2": [
+            "national coloring book day"
+        ],
+        "first tuesday in august": [
+            "national night out day"
+        ],
+        "august 3": [
+            "national hair gloss day",
+            "national georgia day",
+            "national grab some nuts day",
+            "national ipa day"
+        ],
+        "first friday in august": [
+            "national water balloon day"
+        ],
+        "august 6": [
+            "national root beer float day"
+        ],
+        "first saturday in august": [
+            "national disc golf day",
+            "national jamaican patty day",
+            "national summit day"
+        ],
+        "first saturday of every month": [
+            "national play outside day"
+        ],
+        "august 7": [
+            "national raspberries n cream day"
+        ],
+        "first sunday in august": [
+            "national sisters day"
+        ],
+        "august 8": [
+            "national cbd day",
+            "national dollar day",
+            "national frozen custard day",
+            "national happiness happens day"
+        ],
+        "august 9": [
+            "national book lovers day",
+            "national veep day"
+        ],
+        "august 10": [
+            "national connecticut day",
+            "national shapewear day"
+        ],
+        "august 12": [
+            "national julienne fries day"
+        ],
+        "august 13": [
+            "national prosecco day"
+        ],
+        "second saturday in august": [
+            "national bowling day",
+            "national garage sale day"
+        ],
+        "august 14": [
+            "national navajo code talkers day"
+        ],
+        "second sunday in august": [
+            "national spirit of 45 day"
+        ],
+        "august 14 15": [
+            "national v j day"
+        ],
+        "august 15": [
+            "national leathercraft day",
+            "national lemon meringue pie day",
+            "national relaxation day"
+        ],
+        "august 16": [
+            "national rum day"
+        ],
+        "august 17": [
+            "national massachusetts day"
+        ],
+        "august 18": [
+            "national fajita day",
+            "national pinot noir day"
+        ],
+        "august 19": [
+            "national potato day"
+        ],
+        "august 22": [
+            "national bao day",
+            "national surgical oncologist day"
+        ],
+        "august 23": [
+            "national cuban sandwich day"
+        ],
+        "august 24": [
+            "national maryland day"
+        ],
+        "august 25": [
+            "national park service founders day"
+        ],
+        "august 26": [
+            "national cherry popsicle day",
+            "national got checked day",
+            "national webmistress day"
+        ],
+        "august 28": [
+            "national bow tie day",
+            "national power rangers day",
+            "national red wine day",
+            "national thoughtful day"
+        ],
+        "august 29": [
+            "national lemon juice day"
+        ],
+        "august 30": [
+            "national beach day",
+            "national grief awareness day"
+        ],
+        "august 30 2": [
+            "national toasted marshmallow day"
+        ],
+        "august 31": [
+            "national diatomaceous earth day",
+            "national eat outside day",
+            "national matchmaker day",
+            "national south carolina day"
+        ]
+    },
+    "September": {
+        "september 1": [
+            "national hotel employee day",
+            "national acne positivity day",
+            "national burnt ends day"
+        ],
+        "first friday in september": [
+            "national chianti day",
+            "national food bank day",
+            "national lazy moms day"
+        ],
+        "first friday of college school year": [
+            "national college colors day"
+        ],
+        "september 3": [
+            "national cinema day"
+        ],
+        "first saturday in september": [
+            "national tailgating day"
+        ],
+        "first sunday in september": [
+            "national pastors spouses day"
+        ],
+        "september 4": [
+            "national spice blend day"
+        ],
+        "september 7": [
+            "national beer lovers day",
+            "national grateful patient day",
+            "national new hampshire day"
+        ],
+        "second thursday in september": [
+            "national school picture day"
+        ],
+        "september 10": [
+            "national swap ideas day",
+            "national tv dinner day"
+        ],
+        "second sunday in september": [
+            "national hug your hound day"
+        ],
+        "september 12": [
+            "national hug high 5 day",
+            "national medicare report fraud day"
+        ],
+        "second tuesday in september": [
+            "national ants on a log day"
+        ],
+        "september 14": [
+            "national cream filled donut day",
+            "national eat a hoagie day",
+            "national live creative day",
+            "national sober day",
+            "national virginia day"
+        ],
+        "september 15": [
+            "national creme de menthe day",
+            "national double cheeseburger day",
+            "national felt hat day",
+            "national linguine day",
+            "national neonatal nurses day",
+            "national online learning day",
+            "national tackle kids cancer day"
+        ],
+        "third thursday in september": [
+            "national pawpaw day"
+        ],
+        "september 16": [
+            "national cinnamon raisin bread day",
+            "national guacamole day",
+            "national step family day",
+            "national working parents day"
+        ],
+        "september 16th": [
+            "national play doh day"
+        ],
+        "third friday in september": [
+            "national tradesmen day",
+            "national powmia recognition day"
+        ],
+        "september 17": [
+            "national apple dumpling day",
+            "national professional house cleaners day"
+        ],
+        "third saturday in september": [
+            "national cleanup day",
+            "national gymnastics day"
+        ],
+        "third saturday in septmeber": [
+            "national dance day"
+        ],
+        "september 18": [
+            "national cheeseburger day",
+            "national hivaids and aging awareness day"
+        ],
+        "september 19": [
+            "national butterscotch pudding day"
+        ],
+        "september 20": [
+            "national care for kids day",
+            "national fried rice day",
+            "national punch day",
+            "national string cheese day"
+        ],
+        "fouth tuesday in september": [
+            "national voter registration day"
+        ],
+        "third tuesday in september": [
+            "national it professionals day"
+        ],
+        "september 21": [
+            "national chai day",
+            "national new york day",
+            "national pecan cookie day"
+        ],
+        "september 22": [
+            "national centenarians day",
+            "national legwear day",
+            "national online recovery day",
+            "national white chocolate day"
+        ],
+        "and dogs in politics day september 23": [
+            "national checkers day"
+        ],
+        "september 23": [
+            "national great american pot pie day",
+            "national snack stick day",
+            "national teal talk day",
+            "national singles day"
+        ],
+        "september 27": [
+            "national gay mens hivaids awareness day",
+            "national chocolate milk day",
+            "national corned beef hash day",
+            "national crush a can day",
+            "national scarf day"
+        ],
+        "september 24": [
+            "national cherries jubilee day"
+        ],
+        "last saturday in september": [
+            "national public lands day"
+        ],
+        "fourth saturday in september": [
+            "national hunting and fishing day"
+        ],
+        "october 1": [
+            "national ghost hunting day"
+        ],
+        "september 25 2": [
+            "national comic book day"
+        ],
+        "september 25": [
+            "national daughters day",
+            "national one hit wonder day",
+            "national open the magic day",
+            "national tune up day"
+        ],
+        "september 26": [
+            "national compliance officer day",
+            "national dumpling day",
+            "national johnny appleseed day",
+            "national pancake day",
+            "national shamu the whale day",
+            "national situational awareness day"
+        ],
+        "fourth monday in september": [
+            "national family day"
+        ],
+        "september 28": [
+            "national drink beer day",
+            "national good neighbor day",
+            "national strawberry cream pie day"
+        ],
+        "last wednesday in september": [
+            "national womens health fitness day"
+        ],
+        "september 29": [
+            "national coffee day"
+        ],
+        "september 30": [
+            "national chewing gum day",
+            "national hot mulled cider day",
+            "national love people day",
+            "national mud pack day"
+        ]
+    },
+    "October": {
+        "october 1": [
+            "national green city day",
+            "national fire pup day",
+            "national black dog day",
+            "national hair day",
+            "national homemade cookies day",
+            "national pumpkin spice day"
+        ],
+        "october 2": [
+            "national smarties day",
+            "national custodial workers recognition day",
+            "national fried scallops day",
+            "national name your car day",
+            "national produce misting day"
+        ],
+        "sunday of the first full weekend in october": [
+            "national goe day"
+        ],
+        "october 3": [
+            "national boyfriend day",
+            "national techies day"
+        ],
+        "first monday in october": [
+            "national consignment day"
+        ],
+        "october 4": [
+            "national cinnamon bun day",
+            "national golf lovers day",
+            "national taco day",
+            "national vodka day"
+        ],
+        "first tuesday in october": [
+            "national fruit at work day"
+        ],
+        "october 5": [
+            "national apple betty day",
+            "national do something nice day",
+            "national get funky day",
+            "national rhode island day"
+        ],
+        "first wednesday in october": [
+            "national pumpkin seed day",
+            "national coffee with a cop day"
+        ],
+        "october 6": [
+            "national coaches day",
+            "national german american day",
+            "national mad hatter day",
+            "national noodle day",
+            "national orange wine day",
+            "national plus size appreciation day"
+        ],
+        "october 7": [
+            "national chocolate covered pretzel day",
+            "national frappe day",
+            "national inner beauty day",
+            "national led light day",
+            "national trigeminal neuralgia awareness day"
+        ],
+        "first friday in october": [
+            "national manufacturing day",
+            "national body language day"
+        ],
+        "october 8": [
+            "national fluffernutter day",
+            "national pierogi day"
+        ],
+        "december 29": [
+            "national hero day"
+        ],
+        "second saturday in october": [
+            "national chess day",
+            "national costume swap day"
+        ],
+        "october 9": [
+            "national leif erikson day",
+            "national moldy cheese day",
+            "national pro life cupcake day"
+        ],
+        "october 10": [
+            "national angel food cake day",
+            "national metric day",
+            "national walk to a park day"
+        ],
+        "october 15": [
+            "national cake decorating day",
+            "national aesthetician day",
+            "national cheese curd day",
+            "national i love lucy day",
+            "national grouch day",
+            "national latino aids awareness day",
+            "national pregnancy and infant loss remembrance day",
+            "national shawarma day"
+        ],
+        "october 10 2": [
+            "national handbag day"
+        ],
+        "second monday in october": [
+            "national kick butt day"
+        ],
+        "october 11": [
+            "national coming out day",
+            "national sausage pizza day"
+        ],
+        "october 12": [
+            "national farmers day",
+            "national freethought day",
+            "national gumbo day",
+            "national savings day",
+            "national vermont day"
+        ],
+        "second wednesday in october": [
+            "national bring your teddy bear to work and school day",
+            "national curves day",
+            "national emergency nurses day",
+            "national stop bullying day",
+            "national take your parents to lunch day"
+        ],
+        "wednesday of second full week in october": [
+            "national fossil day"
+        ],
+        "october 13": [
+            "national train your brain day",
+            "national yorkshire pudding day"
+        ],
+        "october 14": [
+            "national dessert day"
+        ],
+        "third saturday in october": [
+            "national sweetest day"
+        ],
+        "october 16": [
+            "national feral cat day",
+            "national dictionary day",
+            "national liqueur day",
+            "national sports day"
+        ],
+        "october 17": [
+            "national edge day",
+            "national mulligan day",
+            "national pasta day"
+        ],
+        "october 16 unless weekend": [
+            "national bosss day"
+        ],
+        "october 18": [
+            "national legging day",
+            "national chocolate cupcake day",
+            "national exascale day"
+        ],
+        "third tuesday in october": [
+            "national pharmacy technician day"
+        ],
+        "october 19": [
+            "national kentucky day",
+            "national seafood bisque day"
+        ],
+        "september 15": [
+            "national lgbt center awareness day"
+        ],
+        "october 20": [
+            "national brandied fruit day",
+            "national chicken and waffles day",
+            "national youth confidence day"
+        ],
+        "third thursday in october": [
+            "national get smart about credit day"
+        ],
+        "october 21": [
+            "national pumpkin cheesecake day",
+            "national reptile awareness day",
+            "national witch hazel day"
+        ],
+        "third friday in october": [
+            "national mammography day"
+        ],
+        "october 22": [
+            "national color day",
+            "national make a dogs day",
+            "national nut day"
+        ],
+        "fourth saturday in october": [
+            "national make a difference day"
+        ],
+        "october 23": [
+            "national boston cream pie day",
+            "national mole day",
+            "national tv talk show host day"
+        ],
+        "fourth sunday in october": [
+            "national mother in law day"
+        ],
+        "october 24": [
+            "national bologna day",
+            "national food day"
+        ],
+        "october 25": [
+            "national greasy foods day"
+        ],
+        "october 26": [
+            "national financial crime fighter day",
+            "national mincemeat day",
+            "national mule day",
+            "national pumpkin day",
+            "national tennessee day"
+        ],
+        "october 27": [
+            "national american beer day",
+            "national black cat day",
+            "national civics day"
+        ],
+        "october 28": [
+            "national chocolate day",
+            "national internal medicine day",
+            "national first responders day"
+        ],
+        "friday of third full week in october": [
+            "national pharmacy buying day"
+        ],
+        "last friday in october": [
+            "national breadstick day"
+        ],
+        "october 29": [
+            "national cat day",
+            "national hermit day",
+            "national oatmeal day"
+        ],
+        "last saturday in october": [
+            "national trick or treat day"
+        ],
+        "october 30": [
+            "national candy corn day"
+        ],
+        "october 31": [
+            "national caramel apple day",
+            "national doorbell day",
+            "national knock knock joke day",
+            "national magic day"
+        ]
+    },
+    "November": {
+        "november 1": [
+            "national authors day",
+            "national biologic coordinators day",
+            "national brush day",
+            "national calzone day",
+            "national cinnamon day",
+            "national cook for your pets day",
+            "national deep fried clams day",
+            "national family literacy day",
+            "national vinegar day"
+        ],
+        "november 2": [
+            "national deviled egg day",
+            "national ohio day"
+        ],
+        "first wednesday in november": [
+            "national stress awareness day"
+        ],
+        "november 2 unless weekend": [
+            "national traffic directors day"
+        ],
+        "november 3": [
+            "national housewifes day",
+            "national sandwich day"
+        ],
+        "first thursday in november": [
+            "national cash back day",
+            "national men make dinner day"
+        ],
+        "november 4": [
+            "national candy day",
+            "national chicken lady day"
+        ],
+        "november 5": [
+            "national donut day"
+        ],
+        "first saturday in november": [
+            "national bison day"
+        ],
+        "first saturday of every month": [
+            "national play outside day"
+        ],
+        "november 6": [
+            "national nachos day",
+            "national saxophone day"
+        ],
+        "november 7": [
+            "national bittersweet chocolate with almonds day",
+            "national canine lymphoma awareness day",
+            "national retinol day"
+        ],
+        "october 8": [
+            "national cappuccino day"
+        ],
+        "november 8": [
+            "national harvey wallbanger day",
+            "national stemsteam day"
+        ],
+        "november 9": [
+            "national louisiana day",
+            "national scrapple day"
+        ],
+        "november 10": [
+            "national forget me not day",
+            "national vanilla cupcake day"
+        ],
+        "november 11": [
+            "national sundae day"
+        ],
+        "november 12": [
+            "national chicken soup for the soul day",
+            "national french dip day",
+            "national pizza with the works except anchovies day"
+        ],
+        "november 13": [
+            "national indian pudding day"
+        ],
+        "november 14": [
+            "national family pj day",
+            "national pickle day",
+            "national seat belt day",
+            "national spicy guacamole day"
+        ],
+        "november 15": [
+            "national bundt day",
+            "national clean out your refrigerator day",
+            "national philanthropy day",
+            "national raisin bran cereal day",
+            "national spicy hermit cookie day"
+        ],
+        "november 16": [
+            "national button day",
+            "national fast food day",
+            "national indiana day"
+        ],
+        "wednesday of national education week": [
+            "national education support professionals day"
+        ],
+        "november 17": [
+            "national baklava day",
+            "national butter day",
+            "national homemade bread day",
+            "national take a hike day"
+        ],
+        "third thursday in november": [
+            "national rural health day"
+        ],
+        "november 18": [
+            "national princess day",
+            "national vichyssoise day"
+        ],
+        "november 19": [
+            "national carbonated beverage with caffeine day",
+            "national play monopoly day"
+        ],
+        "saturday before thanksgiving": [
+            "national adoption day"
+        ],
+        "november 20": [
+            "national absurdity day",
+            "national peanut butter fudge day"
+        ],
+        "november 21": [
+            "national gingerbread cookie day",
+            "national red mitten day",
+            "national stuffing day"
+        ],
+        "november 22": [
+            "national cranberry relish day"
+        ],
+        "november 23": [
+            "national cashew day",
+            "national eat a cranberry day",
+            "national espresso day"
+        ],
+        "day before thanksgiving": [
+            "national jukebox day"
+        ],
+        "november 24": [
+            "national sardines day"
+        ],
+        "november 25": [
+            "national parfait day"
+        ],
+        "day after thanksgiving": [
+            "national flossing day",
+            "national native american heritage day"
+        ],
+        "november 26": [
+            "national cake day"
+        ],
+        "november 27": [
+            "national bavarian cream pie day",
+            "national craft jerky day"
+        ],
+        "november 28": [
+            "national french toast day"
+        ],
+        "november 30": [
+            "national mason jar day",
+            "national meth awareness day",
+            "national mississippi day",
+            "national mousse day",
+            "national personal space day"
+        ],
+        "wednesday after thanksgiving": [
+            "national package protection day"
+        ]
+    },
+    "December": {
+        "december 1": [
+            "national eat a red apple day",
+            "national pie day"
+        ],
+        "december 2": [
+            "national fritters day",
+            "national special education day"
+        ],
+        "july 31 and december 2": [
+            "national mutt day"
+        ],
+        "first friday in december": [
+            "national bartender day"
+        ],
+        "december 3": [
+            "national roof over your head day"
+        ],
+        "first saturday of every month": [
+            "national play outside day"
+        ],
+        "december 4": [
+            "national cookie day",
+            "national dice day",
+            "national sock day"
+        ],
+        "december 5": [
+            "national repeal day",
+            "national sacher torte day"
+        ],
+        "december 6": [
+            "national miners day",
+            "national gazpacho day",
+            "national microwave oven day",
+            "national pawnbrokers day"
+        ],
+        "december 7": [
+            "national cotton candy day",
+            "national illinois day",
+            "national pearl harbor remembrance day"
+        ],
+        "december 8": [
+            "national brownie day"
+        ],
+        "december 9": [
+            "national pastry day"
+        ],
+        "second friday in december": [
+            "national salesperson day"
+        ],
+        "december 10": [
+            "national lager day"
+        ],
+        "december 11": [
+            "national app day",
+            "national noodle ring day"
+        ],
+        "december 12": [
+            "national ambrosia day",
+            "national ding a ling day",
+            "national poinsettia day"
+        ],
+        "december 13": [
+            "national cocoa day",
+            "national violin day"
+        ],
+        "december 14": [
+            "national bouillabaisse day",
+            "national alabama day"
+        ],
+        "december 15": [
+            "national cupcake day",
+            "national wear your pearls day"
+        ],
+        "december 16": [
+            "national chocolate covered anything day"
+        ],
+        "december 17": [
+            "national maple syrup day"
+        ],
+        "third friday in december": [
+            "national ugly christmas sweater day"
+        ],
+        "changes annually": [
+            "national wreaths across america day"
+        ],
+        "december 18": [
+            "national twin day",
+            "national roast suckling pig day"
+        ],
+        "december 19": [
+            "national hard candy day",
+            "national oatmeal muffin day"
+        ],
+        "december 20": [
+            "national sangria day"
+        ],
+        "december 21": [
+            "national french fried shrimp day",
+            "national maine day"
+        ],
+        "day of winter solstice": [
+            "national flashlight day"
+        ],
+        "first day of winter": [
+            "national homeless persons remembrance day"
+        ],
+        "december 22": [
+            "national date nut bread day"
+        ],
+        "thursday before christmas": [
+            "national re gifting day"
+        ],
+        "december 23": [
+            "national pfeffernusse day",
+            "national roots day"
+        ],
+        "december 24": [
+            "national eggnog day"
+        ],
+        "december 25": [
+            "national pumpkin pie day"
+        ],
+        "december 26": [
+            "national candy cane day",
+            "national thank you note day",
+            "national whiners day"
+        ],
+        "december 27": [
+            "national fruitcake day"
+        ],
+        "december 28": [
+            "national card playing day",
+            "national chocolate candy day",
+            "national short film day"
+        ],
+        "december 29": [
+            "national pepper pot day"
+        ],
+        "december 30": [
+            "national bicarbonate of soda day"
+        ],
+        "december 31": [
+            "national champagne day"
+        ]
     }
 }
